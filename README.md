@@ -10,7 +10,6 @@
 ![](https://komarev.com/ghpvc/?username=ernestoheres&style=flat-square)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

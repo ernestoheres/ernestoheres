@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ernestoheres&label=Profile%20views&color=0e75b6&style=flat" alt="ernestoheres" /> </p>
 
-
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [www.ernestoheres.com](www.ernestoheres.com)
 

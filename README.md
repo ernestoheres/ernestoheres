@@ -14,7 +14,6 @@ work account: https://github.com/ErnestoHeresLoyLap
 [![](https://visitcount.itsvg.in/api?id=ernestoheres&icon=7&color=8)](https://visitcount.itsvg.in)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestoheres)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
